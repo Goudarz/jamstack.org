@@ -15,10 +15,6 @@ chapters:
     artpath: /img/chapters/porto-art.svg
     btncopy: Join Now
     link: https://www.meetup.com/JAMstack-Porto/
-  - name: JAMstack Oklahoma City
-    artpath: /img/chapters/okc-art.svg
-    btncopy: Join Now
-    link: https://www.meetup.com/JAMstack-OKC/
   - name: JAMstack NYC
     artpath: /img/chapters/nyc-art.svg
     btncopy: Join Now
@@ -95,10 +91,6 @@ chapters:
     artpath: /img/chapters/lagos-art.svg
     btncopy: Join Now
     link: https://www.meetup.com/JAMStack-Lagos/
-  - name: JAMstack São Paulo
-    artpath: /img/chapters/saopaulo-art.svg
-    btncopy: Join Now
-    link: https://www.meetup.com/JAMstack-SP/
   - name: JAMstack Denver
     artpath: /img/chapters/placeholder-art.svg
     btncopy: Join Now
@@ -115,6 +107,10 @@ chapters:
     artpath: /img/chapters/florence-art.svg
     btncopy: Join Now
     link: https://www.meetup.com/JAMstack_Florence/
+  - name: JAMstack Detroit
+    artpath: /img/chapters/placeholder-art.svg
+    btncopy: Join Now
+    link: https://www.meetup.com/JAMstack-Detroit/
 
 gitterurl: https://gitter.im/jamstack/community
 forumurl: https://community.netlify.com
